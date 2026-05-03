@@ -1,4 +1,4 @@
-3Project Description
+##Project Description##
 This laboratory exercise focuses on the implementation of fundamental network security using Access Control Lists (ACLs) on Cisco infrastructure. This scenario simulates the restriction of access rights between different network segments—such as HR, IT, and Server departments—to ensure data integrity and privacy within a local network environment.
 
 #Instructional Objectives:
@@ -14,12 +14,12 @@ Upon completion of this lab, the practitioner is expected to:
 -Harden local server access against potential internal and external threats.
 -Execute Verification using commands like show access-lists and testing via pings or web browsers within Cisco Packet Tracer. 
 
-Success Verification Table:
+#Success Verification Table:
 Activity:                                           Expected Result
 Ping to Server (Authorized Host)                    Success / Reply Received
 Ping to Server (Restricted Host)                    Destination Host Unreachable
 
-This file include:
+#This file include:
 -ACL 1.pkt
 -Topologi.png
 -Ping.png
