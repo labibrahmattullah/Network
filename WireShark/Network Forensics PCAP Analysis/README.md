@@ -22,6 +22,7 @@ Upon expanding the **HTML Form URL Encoded** layer of the packet packet, clearte
 * **Form Item (`log`):** `admin`
 * **Form Item (`pwd`):** `qwerty@13`
 * **Form Item (`wp-submit`):** `Log In`
+<img width="1918" height="490" alt="Screenshot 2026-04-30 195255" src="https://github.com/user-attachments/assets/a4aca42a-5bd0-483c-bddc-f43a054f50ac" />
 
 > ⚠️ **Security Finding:** The transmission of credentials over plain HTTP (Port 80) exposes the session to credential harvesting and Man-in-the-Middle (MitM) sniffing attacks.
 
